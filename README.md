@@ -24,5 +24,6 @@ Project Members:
 3.	MOHAMAD HELMI BIN AZIH A17CS0088
 4.	MUHAMMAD HAKIM BIN MD HAMBALI A17CS0115
 
+Github link: https://github.com/helmiazih/prototype-eco-tourism
 Video Prototype Link:
 - https://youtu.be/78MDgl-yfD4
